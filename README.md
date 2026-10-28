@@ -1,4 +1,4 @@
-KSM PARA WEBOS 3.x.x
+KSM PARA WEBOS 3.8.0
 
 Para el entorno de desarrollo es necesario descargarse el SDK de LG de la página developer.lge.com.
 El usuario y la contraseña me los pueden pedir a mi o a Víctor.
